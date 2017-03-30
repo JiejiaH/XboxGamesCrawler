@@ -1,0 +1,28 @@
+{
+  "name": "xboxgames-crawler",
+  "version": "1.0.0",
+  "description": "Grab Xbox one games of all servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiejiaH/XboxGamesCrawler.git"
+  },
+  "keywords": [
+    "Xbox",
+    "crawler"
+  ],
+  "author": "Jiajie Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JiejiaH/XboxGamesCrawler/issues"
+  },
+  "homepage": "https://github.com/JiejiaH/XboxGamesCrawler#readme",
+  "dependencies": {
+    "superagent": "^3.5.2",
+    "cheerio": "^0.22.0",
+    "rxjs": "^5.2.0"
+  }
+}
